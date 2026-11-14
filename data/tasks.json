@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Veritabanı Tasarımı",
+    "description": "Tabloları ve ilişkileri belirle",
+    "status": "in-progress",
+    "priority": "low",
+    "assignee": "musa",
+    "createdAt": "2026-11-10T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Middleware Geliştirme",
+    "description": "Logger katmanını hazırla",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "ahmet",
+    "createdAt": "2026-11-12T10:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Birim Testleri",
+    "description": "API rotaları için test hazırla",
+    "status": "pending",
+    "priority": "high",
+    "assignee": "baris",
+    "createdAt": "2026-11-14T11:35:23.688Z"
+  }
+]
