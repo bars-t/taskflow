@@ -7,8 +7,8 @@ Gelen istekleri konsola saat bilgisiyle yazdıran basit bir logger katmanı bulu
 Projeyi bilgisayarınızda çalıştırmak için:
 
 -Projeyi bilgisayarınıza klonlayın ve klasöre girin:
-     git clone https://github.com/bars-t/taskflow.git 
-     cd taskflow
+git clone https://github.com/bars-t/taskflow.git 
+cd taskflow
 -Gerekli bağımlılıkları yükleyin: 
     npm install
 -Sunucuyu geliştirici modunda başlatın: 
