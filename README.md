@@ -5,10 +5,15 @@ Gelen istekleri konsola saat bilgisiyle yazdıran basit bir logger katmanı bulu
 
 ## Kurulum ve Çalıştırma
 Projeyi bilgisayarınızda çalıştırmak için:
-1. Gerekli paketleri yükleyin:
-npm install
-2. Sunucuyu geliştirici modunda başlatın:
-npm run dev
+
+-Projeyi bilgisayarınıza klonlayın ve klasöre girin:
+     git clone https://github.com/bars-t/taskflow.git 
+     cd taskflow
+-Gerekli bağımlılıkları yükleyin: 
+    npm install
+-Sunucuyu geliştirici modunda başlatın: 
+    npm run dev
+Sunucu http://localhost:3000 adresinde çalışır.
 
 Sunucu varsayılan http://localhost:3000 adresinde çalışır.
 
